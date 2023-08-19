@@ -2,7 +2,7 @@
 My Creation A formula that works like a regression model for predictions
 
 
-This I've created some mathematical proccess the data to predict like regression model do you want a try =)
+This I've created some mathematical proccess the data to predict like regression model. use X>y cases, do you want a try =)
 
 note: program should be more optimizable I've seen this door is open. Maybe one day I do
 
